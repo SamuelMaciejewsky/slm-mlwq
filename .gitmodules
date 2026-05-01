@@ -1,0 +1,3 @@
+[submodule "slm-mlwq"]
+	path = slm-mlwq
+	url = https://github.com/hudevictor/mlwq

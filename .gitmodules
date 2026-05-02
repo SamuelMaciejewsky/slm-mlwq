@@ -1,0 +1,4 @@
+[submodule "mlwq"]
+	path = mlwq
+	url = https://github.com/SamuelMaciejewsky/mlwq
+	branch = main
